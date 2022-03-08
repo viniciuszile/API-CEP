@@ -9,46 +9,41 @@
 
     <body>
 
-        
-        <div class="container">
-         <h1 class="h1">Consultar CEP</h1>   
+            <div class="container">
+
+            <h1 class="h1">Consultar CEP</h1>   
           
-         <div class="caixas">
-      <form method="get" >
-        <label>CEP:
-        <input name="cep" placeholder="Informe o seu CEP" type="text" id="cep" value="" maxlength="9" onblur="pesquisacep(this.value);" /></label><br />
-             </div> 
+            <form method="get" action=".">
 
             <div class="caixas">
-                <label for=""> Endereço </label>
-                <input type="text" id="endereco">
+            <label>Cep:
+            <input name="cep" type="text" id="cep" value=""  maxlength="9"
+                   onblur="pesquisacep(this.value);" /></label><br />
             </div>
-    
-            <div class="caixas">
-                <label for="">Número</label>
-                <input type="text" id="number">
-            </div>
-    
-            <div class="caixas">
-                <label for=""> Bairro</label>
-                <input type="text" id="bairro">
-            </div>
-    
-            <div class="caixas">
-                <label for="">Cidade</label>
-                <input type="text" id="cidade">
-            </div>
-    
-            <div class="caixas"> 
-                <label for="" >Estado</label>
-                <input type="text" id="estado">
-            </div>
-    
-            <button class="row">
-                CONSULTAR CEP
-            </button>
 
-            </form>
+            <div class="caixas">
+            <label>Rua:
+            <input name="rua" type="text" id="rua"  /></label><br />
+            </div>
+
+            <div class="caixas">
+            <label>Bairro:
+            <input name="bairro" type="text" id="bairro"  /></label><br />
+            </div>
+
+            <div class="caixas">
+            <label>Cidade:
+            <input name="cidade" type="text" id="cidade"  /></label><br />
+            </div>
+
+            <div class="caixas">
+            <label>Estado:
+            <input name="uf" type="text" id="uf" /></label><br />
+            </div>
+
+          </form>
+
+          
     </div>
     </body>
 

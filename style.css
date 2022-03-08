@@ -1,15 +1,15 @@
 body{
-    background-color: rgb(31, 28, 28);
+    background-color: rgb(53, 63, 0);
     color: white ;
 }
 
 .container{
-    color: white;
-    border: solid 2px black;
+    color: rgb(238, 255, 1);
+    border: solid 2px rgb(0, 0, 0);
     box-shadow:20px 10px black;
-    background-color: #2a2a2a;
+    background-color: #0c0038;
     margin-left: 35%;
-    width: 400px;
+    width: 450px;
     padding: 60px;
     border-radius: 30px;
     margin-top: 10%;
@@ -17,7 +17,7 @@ body{
 }
 
 .h1{
-    color: white;
+    color: rgb(238, 255, 1);
     margin-left: 22%;
     border: 0px;
     border-radius: 30px;
@@ -37,7 +37,7 @@ body{
 
 input {
     bottom: 0;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 label {
@@ -47,4 +47,5 @@ label {
 
 .caixas {
     margin-top: 5%;
+    font-size: small;
 }
