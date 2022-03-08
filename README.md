@@ -11,11 +11,11 @@
 
 <P align="center">Informe apenas o seu CEP no campo "Informe o CEP", e clique em na tela</P>
 
-<img align="center" src="https://raw.githubusercontent.com/viniciuszile/API-CEP/main/images/cep1.PNG" >
+<img align="center" src="https://raw.githubusercontent.com/viniciuszile/API-CEP/main/cep1.PNG" >
 
 <h1 align="center"> Demonstraçao Do Resultado </h1>
 
-<img align="center" src="https://raw.githubusercontent.com/viniciuszile/API-CEP/main/images/cep2.PNG" >
+<img align="center" src="https://raw.githubusercontent.com/viniciuszile/API-CEP/main/cep2.PNG" >
 
 <div align="center">
 <h1> Teste Você Mesmo Clicando No Link Abaixo </h1>
