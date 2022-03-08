@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(31, 28, 28);
+    color: white ;
+}
+
+.container{
+    color: white;
+    border: solid 2px black;
+    box-shadow:20px 10px black;
+    background-color: #2a2a2a;
+    margin-left: 35%;
+    width: 400px;
+    padding: 60px;
+    border-radius: 30px;
+    margin-top: 10%;
+    border: 0px;
+}
+
+.h1{
+    color: white;
+    margin-left: 22%;
+    border: 0px;
+    border-radius: 30px;
+    margin-top: 5%;
+
+}
+.botao{
+    color: white;
+    background-color: #2a2a2a;
+    margin-left: 38%;
+}
+
+.botao:hover{
+    color: #2a2a2a;
+    background-color: white;
+}
+
+input {
+    bottom: 0;
+    font-size: 30px;
+}
+
+label {
+    top:0;
+    font-size: 20px;
+}
+
+.caixas {
+    margin-top: 5%;
+}
