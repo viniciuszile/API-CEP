@@ -35,7 +35,7 @@ body{
     background-color: white;
 }
 
-input {
+/* input {
     bottom: 0;
     font-size: 35px;
 }
@@ -43,7 +43,7 @@ input {
 label {
     top:0;
     font-size: 20px;
-}
+} */
 
 .caixas {
     margin-top: 5%;
